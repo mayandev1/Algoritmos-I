@@ -30,7 +30,7 @@ int main(){
     if (identidade){
         printf("A MATRIZ E IDENTIDADE!\n");
     } else {
-        printf("A MATRIZ NAO E IDADENTIDADE!\n");
+        printf("A MATRIZ NAO E IDENTIDADE!\n");
     }
     
     return 0;
